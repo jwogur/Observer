@@ -8,5 +8,8 @@ int main()
 	wd->show();
 	WD->setWData();
 	wd->show();
-	
+	// 生嬢嬢
+	// しし
+	// しし/
+	//しし
 }
